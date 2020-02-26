@@ -26,6 +26,16 @@ npm install gatsby-remark-embed-glitch --save
       },
 ```
 
+Note: if you also rely on `gatsby-remark-responsive-iframe`, you have to define the embed-youtube plugin first:
+
+``` js
+
+plugins: [
+  "gatsby-remark-embed-youtube",
+  "gatsby-remark-responsive-iframe"
+]
+```
+
 ## License
 
 MIT
