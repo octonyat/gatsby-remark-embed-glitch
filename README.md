@@ -29,3 +29,9 @@ npm install gatsby-remark-embed-glitch --save
 ## License
 
 MIT
+
+### Thanks
+
+This project was very inspired from `gatsby-remark-embed-youtube` and modified for Glitch.
+
+[gatsby-remark-embed-youtube](https://github.com/ntwcklng/gatsby-remark-embed-youtube)
