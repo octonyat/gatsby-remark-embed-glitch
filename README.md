@@ -36,6 +36,15 @@ plugins: [
 ]
 ```
 
+## Usage
+
+Set your Glitch Project Name. ex) `react-babel-starter`
+
+```md
+# Look at this Glitch
+`glitch:react-babel-starter`
+```
+
 ## License
 
 MIT
