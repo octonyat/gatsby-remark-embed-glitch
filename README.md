@@ -29,16 +29,6 @@ module.exports = {
 };
 ```
 
-Note: if you also rely on `gatsby-remark-responsive-iframe`, you have to define the embed-glitch plugin first:
-
-``` js
-
-plugins: [
-  "gatsby-remark-embed-glitch",
-  "gatsby-remark-responsive-iframe"
-]
-```
-
 ## Usage
 
 Set your Glitch Project Name. ex) `react-babel-starter`
